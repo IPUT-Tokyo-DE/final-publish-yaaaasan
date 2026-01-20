@@ -5,7 +5,9 @@
 とても穏やかで癒される可愛らしいゲームです。
 
 
-![画面イメージ](docs/images/game_image01.png)
+![画面イメージ]
+<img width="1604" height="880" alt="game_image01" src="https://github.com/user-attachments/assets/0ee53989-c3db-4351-9451-32faf943b904" />
+
 
 ## 操作説明
 -WASDで移動
