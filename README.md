@@ -6,9 +6,9 @@
 
 
 ![画面イメージ]
-<img width="1604" height="880" alt="game_image01" src="https://github.com/user-attachments/assets/0ee53989-c3db-4351-9451-32faf943b904" />
+<img width="1462" height="819" alt="game_image01" src="https://github.com/user-attachments/assets/477f5ff2-772c-4d68-96db-8da86c773339" />
 
 
 ## 操作説明
 -WASDで移動
--スペースキーでジャンプ
+- スペースキーでジャンプ
